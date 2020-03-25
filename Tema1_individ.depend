@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1584038694 source:/home/edi/Desktop/FMI/Sem_2/POO/Tema1_individ/main.cpp
+	<iostream>
+	<tabla.h>
+	<individ.h>
+	<fstream>
+
+1584033486 source:/home/edi/Desktop/FMI/Sem_2/POO/Tema1_individ/src/individ.cpp
+	"individ.h"
+	<tabla.h>
+	<cmath>
+
+1584033094 /home/edi/Desktop/FMI/Sem_2/POO/Tema1_individ/include/individ.h
+	<iostream>
+
+1584038311 source:/home/edi/Desktop/FMI/Sem_2/POO/Tema1_individ/src/tabla.cpp
+	"tabla.h"
+	<individ.h>
+	<cstdlib>
+	<ctime>
+
+1584034831 /home/edi/Desktop/FMI/Sem_2/POO/Tema1_individ/include/tabla.h
+	<iostream>
+
+1584632924 source:c:\users\edi\desktop\fmi\sem_2\poo\tema1_individ\main.cpp
+	<iostream>
+	<tabla.h>
+	<individ.h>
+	<fstream>
+
+1584632924 c:\users\edi\desktop\fmi\sem_2\poo\tema1_individ\include\tabla.h
+	<iostream>
+
+1584632924 c:\users\edi\desktop\fmi\sem_2\poo\tema1_individ\include\individ.h
+	<iostream>
+
+1584632924 source:c:\users\edi\desktop\fmi\sem_2\poo\tema1_individ\src\individ.cpp
+	"individ.h"
+	<tabla.h>
+	<cmath>
+
+1585131069 source:c:\users\edi\desktop\fmi\sem_2\poo\tema1_individ\src\tabla.cpp
+	"tabla.h"
+	<individ.h>
+	<cstdlib>
+	<ctime>
+
